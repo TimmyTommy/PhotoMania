@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhotoMania</string>
+    <string name="action_photo">Foto machen</string>
+    <string name="title_activity_photo">ImageName</string>
+    <string name="action_showPos">Aufnahmeort zeigen</string>
+    <string name="action_share_mail">Per Mail senden</string>
+    <string name="action_copyToGallery">In Galerie kopieren</string>
+    <string name="str_noGPSTagAdded">Kein GPS-Tag hinzugefügt.</string>
+    <string name="str_noGPSTagAvailable">Kein GPS-Tag vorhanden.</string>
+    <string name="str_SearchForGPSCancelled">GPS-Suche abgebrochen.</string>
+    <string name="str_Cancel">Abbrechen</string>
+    <string name="str_Yes">Ja</string>
+    <string name="str_No">Nein</string>
+    <string name="str_SearchForGPS">Suche nach GPS-Signal.</string>
+    <string name="str_PleaseWait">Bitte warten...</string>
+    <string name="str_AskAddGPSTag">GPS-Tag hinzufügen?</string>
+    <string name="str_GPS_IsOff">GPS ist ausgeschaltet.</string>
+    <string name="str_resolution">Auflösung</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_delete">Löschen</string>
+    <string name="str_deleted">erfolgreich gelöscht</string>
+    <string name="str_shareVia">Senden via</string>
+    <string name="str_share">Teilen</string>
+    <string name="str_options">Optionen</string>
+    <string name="action_gotoMainMarker">Gehe zu Hauptmarker</string>
+    <string name="action_changeMapType">Kartentyp ändern</string>
+    <string name="str_mapType">Kartentyp</string>
+    <string name="str_roadmap">Straßennetz</string>
+    <string name="str_satellite">Satellit</string>
+    <string name="str_hybrid">Hybrid</string>gotoMainMarker
+    <string name="str_terrain">Gelände</string>
+    <string name="str_watchThisGreatPicture">Schau dir dieses tolle Bild an!</string>
+    <string name="str_ImageWasSuccessfullyCopied">Bild wurde erfolgreich kopiert!</string>
+    <string name="action_turnLeft">Nach links drehen</string>
+    <string name="action_turnRight">Nach rechts drehen</string>
+    <string name="str_markerOptions">Markeroptionen</string>
+    <string name="str_allMarker">Alle Marker zeigen</string>
+    <string name="str_onlyMainMarker">Nur Hauptmarker anzeigen</string>
+
+</resources>

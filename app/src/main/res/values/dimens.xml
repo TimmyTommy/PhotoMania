@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="fileName">17dp</dimen>
+    <dimen name="date">15dip</dimen>
+    <dimen name="imageSize">13dip</dimen>
+    <dimen name="gpsPos">12dip</dimen>
+
+    <dimen name="fileNameIW">16dp</dimen>
+    <dimen name="dateIW">14dip</dimen>
+    <dimen name="gpsPosIW">12dip</dimen>
+    <!--dimen name="gpsPos">12dip</dimen-->
+</resources>

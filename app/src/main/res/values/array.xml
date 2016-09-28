@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_mapTypes">
+        <item>@string/str_roadmap</item>
+        <item>@string/str_satellite</item>
+        <item>@string/str_hybrid</item>
+        <item>@string/str_terrain</item>
+    </string-array>
+    <string-array name="menu_markerOptions">
+        <item>@string/str_allMarker</item>
+        <item>@string/str_onlyMainMarker</item>
+    </string-array>
+</resources>

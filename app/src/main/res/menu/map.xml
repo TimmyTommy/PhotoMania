@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_gotoMainMarker"
+        android:title="@string/action_gotoMainMarker"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_changeMapType"
+        android:title="@string/action_changeMapType"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_markerOptions"
+        android:title="@string/str_markerOptions"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

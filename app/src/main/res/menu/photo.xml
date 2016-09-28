@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.photomaker.tommy.photomaker.PhotoActivity" >
+    <item android:id="@+id/action_showPos"
+        android:title="@string/action_showPos"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_copyToGallery"
+        android:title="@string/action_copyToGallery"
+        android:orderInCategory="101"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_turnLeft"
+        android:title="@string/action_turnLeft"
+        android:orderInCategory="103"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_turnRight"
+        android:title="@string/action_turnRight"
+        android:orderInCategory="102"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/menu_item_share"
+        android:showAsAction="ifRoom"
+        android:title="Teilen"
+        android:actionProviderClass="android.widget.ShareActionProvider" />
+</menu>

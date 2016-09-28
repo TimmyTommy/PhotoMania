@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="imageSize">#666666</color>
+    <color name="gpsPos">#888888</color>
+
+    <color name="gpsPosIW">#555555</color>
+    <color name="fileNameIW">#111111</color>
+    <color name="dateIW">#222222</color>
+    <color name="list_row_start_color">#eeeeee</color>
+    <color name="list_row_end_color">#dddddd</color>
+    <color name="list_row_hover_start_color">#ffeaf8ff</color>
+    <color name="list_row_hover_end_color">#ffbfe9ff</color>
+    <color name="list_row_bg_color">#ffffff</color>
+
+</resources>

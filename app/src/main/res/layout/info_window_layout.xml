@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="8dp" >
+
+    <!-- Thumbnail Image -->
+    <ImageView
+        android:id="@+id/thumbnailIW"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="8dp" />
+
+    <!-- FileName -->
+    <TextView
+        android:id="@+id/fileNameIW"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/thumbnailIW"
+        android:layout_toRightOf="@+id/thumbnailIW"
+        android:textSize="@dimen/fileNameIW"
+        android:textStyle="bold"
+        android:textColor="@color/fileNameIW"/>
+
+    <!-- Date -->
+    <TextView
+        android:id="@+id/dateIW"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/fileNameIW"
+        android:layout_marginTop="1dip"
+        android:layout_toRightOf="@+id/thumbnailIW"
+        android:textSize="@dimen/dateIW"
+        android:textColor="@color/dateIW"/>
+
+    <!-- GPS Position -->
+    <TextView
+        android:id="@+id/gpsPosIW"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/dateIW"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/thumbnailIW"
+        android:textColor="@color/gpsPosIW"
+        android:textSize="@dimen/gpsPosIW" />
+
+    <!-- GPS Position -->
+    <!--TextView
+        android:id="@+id/gpsPos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/gpsPos"
+        android:textSize="@dimen/gpsPos" /-->
+
+</RelativeLayout>
